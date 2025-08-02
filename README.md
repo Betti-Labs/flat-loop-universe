@@ -88,6 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Gregory Betti - gregory.betti@bettilabs.org
+Gregory Betti - gorygrey@protonmail.com
+
 
 Project Link: [https://github.com/bettilabs/flat-loop-universe](https://github.com/bettilabs/flat-loop-universe)
